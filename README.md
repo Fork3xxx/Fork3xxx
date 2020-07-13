@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **Fork3xxx/Fork3xxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ![xxx](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713204926.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 - ![dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713205853.jpg)
 -->
-🎨 🏐 🍝 🥣
-It's ✖✖✖ !!
-A mediocrel CS student.
-I have learned java\wed design\ml\cv. 
+- 🎨 🏐 🍝 🥣
+- #### It's ✖✖✖ !!
+- A mediocrel CS student.
+- I have learned java\wed design\ml\cv. 
 
 ![little dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713210741.jpg)

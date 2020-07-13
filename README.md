@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - 🎨 #### It's xxx !!
 - 🥣 A mediocrel CS student.
 - 🍝 I am learning about java\wed design\ml\cv...
-- 🏐 I like anime.
-
-       ![little dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713210741.jpg)
+- 🏐 I like anime. ![little dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713210741.jpg)

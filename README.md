@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![xxx](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713204926.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+- ![dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713205853.jpg)
 -->
+🎨 🏐 🍝 🥣
+It's ✖✖✖ !!
+A mediocrel CS student.
+I have learned java\wed design\ml\cv. 
 
-![dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713205853.jpg)
+![little dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713210741.jpg)

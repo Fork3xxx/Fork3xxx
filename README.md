@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🍝 I am learning about java\ web design\ ml\ cv...
 - 🏐 I like anime and drawing. 
 
-![little dog](./img/pandaMeme.jpg)
+![little dog](img/pandaMeme.gif)

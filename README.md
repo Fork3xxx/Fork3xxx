@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
    
 ### It's xxx !!  🎨  
-- 🥣 A mediocrel CS student.
+- 🥣 A CS student.
 - 🍝 I am learning about java\ web design\ ml\ cv...
 - 🏐 I like anime and drawing. 
 
-![little dog](https://raw.githubusercontent.com/Fork3xxx/CloudImage/master/img20200713210741.jpg)
+![little dog](./img/mm.jpg)
